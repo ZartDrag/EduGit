@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/EduGit/static/css/main.3ec07925.chunk.css",
-    "main.js": "/EduGit/static/js/main.24dd3be7.chunk.js",
-    "main.js.map": "/EduGit/static/js/main.24dd3be7.chunk.js.map",
+    "main.css": "/EduGit/static/css/main.dbac6d62.chunk.css",
+    "main.js": "/EduGit/static/js/main.e7d26835.chunk.js",
+    "main.js.map": "/EduGit/static/js/main.e7d26835.chunk.js.map",
     "runtime-main.js": "/EduGit/static/js/runtime-main.1ec15fe3.js",
     "runtime-main.js.map": "/EduGit/static/js/runtime-main.1ec15fe3.js.map",
-    "static/js/2.68a98d9d.chunk.js": "/EduGit/static/js/2.68a98d9d.chunk.js",
-    "static/js/2.68a98d9d.chunk.js.map": "/EduGit/static/js/2.68a98d9d.chunk.js.map",
+    "static/js/2.5aa3a6ac.chunk.js": "/EduGit/static/js/2.5aa3a6ac.chunk.js",
+    "static/js/2.5aa3a6ac.chunk.js.map": "/EduGit/static/js/2.5aa3a6ac.chunk.js.map",
     "index.html": "/EduGit/index.html",
-    "static/css/main.3ec07925.chunk.css.map": "/EduGit/static/css/main.3ec07925.chunk.css.map",
-    "static/js/2.68a98d9d.chunk.js.LICENSE.txt": "/EduGit/static/js/2.68a98d9d.chunk.js.LICENSE.txt"
+    "static/css/main.dbac6d62.chunk.css.map": "/EduGit/static/css/main.dbac6d62.chunk.css.map",
+    "static/js/2.5aa3a6ac.chunk.js.LICENSE.txt": "/EduGit/static/js/2.5aa3a6ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1ec15fe3.js",
-    "static/js/2.68a98d9d.chunk.js",
-    "static/css/main.3ec07925.chunk.css",
-    "static/js/main.24dd3be7.chunk.js"
+    "static/js/2.5aa3a6ac.chunk.js",
+    "static/css/main.dbac6d62.chunk.css",
+    "static/js/main.e7d26835.chunk.js"
   ]
 }
