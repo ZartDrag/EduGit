@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/EduGit/static/css/main.dbac6d62.chunk.css",
-    "main.js": "/EduGit/static/js/main.e7d26835.chunk.js",
-    "main.js.map": "/EduGit/static/js/main.e7d26835.chunk.js.map",
+    "main.js": "/EduGit/static/js/main.310bebf9.chunk.js",
+    "main.js.map": "/EduGit/static/js/main.310bebf9.chunk.js.map",
     "runtime-main.js": "/EduGit/static/js/runtime-main.1ec15fe3.js",
     "runtime-main.js.map": "/EduGit/static/js/runtime-main.1ec15fe3.js.map",
     "static/js/2.5aa3a6ac.chunk.js": "/EduGit/static/js/2.5aa3a6ac.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1ec15fe3.js",
     "static/js/2.5aa3a6ac.chunk.js",
     "static/css/main.dbac6d62.chunk.css",
-    "static/js/main.e7d26835.chunk.js"
+    "static/js/main.310bebf9.chunk.js"
   ]
 }
