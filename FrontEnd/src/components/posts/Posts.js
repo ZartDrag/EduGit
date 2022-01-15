@@ -25,7 +25,7 @@ const Posts = (props) => {
   };
 
   return (
-    <div>
+    <div className="posts">
       {articles.map((articles, i) => {
         return (
           <div>
