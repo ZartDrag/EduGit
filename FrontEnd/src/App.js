@@ -32,7 +32,7 @@ class App extends Component {
   // let user = false;
   handleUserCallback = (userVal, username = "") => {
     this.setState({ user: userVal, userName: username });
-    console.log("UserCallBack Called");
+    // console.log("UserCallBack Called");
   };
 
   logoutClick = () => {
@@ -105,8 +105,8 @@ class App extends Component {
             <Posts />
           </Route>
 
-           <Route path='/about'>
-            <About/>
+          <Route path="/about">
+            <About />
           </Route>
 
           <Route path="/post/:postid">
